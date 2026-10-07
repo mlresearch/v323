@@ -4,7 +4,7 @@ booktitle: Proceedings of the Fifth Conference on Causal Learning and Reasoning
 shortname: CLeaR
 year: '2026'
 volume: '323'
-start: &1 2026-04-06
+start: 2026-04-06
 end: 2026-04-08
 published: 2026-07-05
 conference_number: '5'
@@ -70,7 +70,7 @@ conference:
   url: https://www.cclear.cc/2026
   location: Broad Institute of MIT and Harvard, Cambridge, USA
   dates:
-  - *1
+  - 2026-04-06
   - 2026-04-07
   - 2026-04-08
 analytics:
